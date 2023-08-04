@@ -1,0 +1,1 @@
+要求python安装ecdsa和hashlib模块
